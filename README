@@ -1,0 +1,3 @@
+The program takes two arguments from the user and deletes them from all the XML files in the folder.
+
+Example: remove_attribute.py tag_name attribute_name
